@@ -1,6 +1,6 @@
 ![example workflow](https://github.com/bin2bin-applications/transmission/actions/workflows/docker-image.yml/badge.svg)
 
-<h1 id="title">Transmission</h1>
+<h1 id="name">Transmission</h1>
 
 <img src="logo.webp" width="180" height="180"></img>
 
@@ -9,7 +9,7 @@
 <p>Click <a id="developer" href="https://transmissionbt.com/">here</a> to go to developer site</p>
 
 ## Description
-<p id="short description">BitTorrent client for downloading torrents</p>
+<p id="heading">BitTorrent client for downloading torrents</p>
 
 <p id="description">Transmission is a BitTorrent client which features a variety of user interfaces on top of a cross-platform back-end. Transmission is free software licensed under the terms of the GNU General Public License, with parts under the MIT License.</p>
 
