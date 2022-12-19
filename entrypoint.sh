@@ -14,4 +14,4 @@ if [ -f "/app/config/settings.json.reset" ]; then
     mv "/app/config/settings.json.reset" "/app/config/settings.json"
 fi
 
-transmission-daemon --foreground --config-dir "/app/config"
+exec transmission-daemon --foreground --config-dir "/app/config"
