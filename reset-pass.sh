@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 transmission-daemon \
     --port 8080 --auth --allowed "*" --no-incomplete-dir \
     --username "admin" --password "$(cat /proc/sys/kernel/random/uuid)" \

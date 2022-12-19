@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ ! -f "/app/config/settings.json" ]; then
     mkdir -p "/app/torrents-watch" "/app/data" "/app/config"
     transmission-daemon \
