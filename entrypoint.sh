@@ -10,7 +10,7 @@ if [ ! -f "/app/config/settings.json" ]; then
     mv "/app/config/settings.json.bkp" "/app/config/settings.json"
 fi
 
-if [ ! -f "/app/config/settings.json.reset" ]; then
+if [ -f "/app/config/settings.json.reset" ]; then
     mv "/app/config/settings.json.reset" "/app/config/settings.json"
 fi
 
