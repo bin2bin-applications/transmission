@@ -2,7 +2,7 @@
 
 <h1 id="app:name">Transmission</h1>
 
-<img id="app:logo" src="https://raw.githubusercontent.com/bin2bin-applications/transmission/master/logo.webp" width="180" height="180"></img>
+<img id="app:logo" src="https://cdn.jsdelivr.net/gh/bin2bin-applications/transmission@master/logo.webp" width="180" height="180"></img>
 
 ## Developer
 
